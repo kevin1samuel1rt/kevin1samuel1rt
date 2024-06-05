@@ -1,16 +1,13 @@
-## Hi there 👋
+## bem-vindo ao meu perfil
 
-<!--
-**kevin1samuel1rt/kevin1samuel1rt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e kevin samuel
 
-Here are some ideas to get you started:
+-tocau flauta 
+-ando de bike
+## Você pode entrer em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@kevinsamuelp2022@gmail.com
+
+@kevin_samuel_rt
+
+![](https://media1.tenor.com/m/TCr4VXmpJtUAAAAd/quarantine-got-me-like-bored.gif)
